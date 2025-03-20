@@ -1,0 +1,22 @@
+{
+    "name": "oft-layerzero",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "npx hardhat test",
+        "deploy:myoft:sepolia": "npx hardhat run script/deployMyOFT.ts --network sepolia",
+        "deploy:myoft:baseSepolia": "npx hardhat run script/deployMyOFT.ts --network baseSepolia"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "devDependencies": {
+        "@layerzerolabs/oft-evm": "^3.1.3",
+        "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+        "@openzeppelin/contracts": "^5.0.1",
+        "dotenv": "^16.4.7",
+        "hardhat": "^2.22.19"
+    }
+}

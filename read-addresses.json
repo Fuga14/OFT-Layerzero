@@ -1,0 +1,1800 @@
+[
+  {
+    "dvnDisplayName": "LayerZero Labs (lzRead)",
+    "dvnId": "layerzero-labs",
+    "originChainKey": "abstract",
+    "originChainDisplayName": "Abstract Mainnet",
+    "readLibAddressOnOriginChain": "0x2B79f3C2EE059E465a24bf5A2F4FE989546053B1",
+    "dvnAddressOnOriginChain": "0x02a7bf7298d17c12181578ff474c17c922aad75a",
+    "dataChains": [
+      {
+        "dataChainKey": "abstract",
+        "dataChainDisplayName": "Abstract Mainnet"
+      },
+      {
+        "dataChainKey": "ape",
+        "dataChainDisplayName": "Ape Mainnet"
+      },
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Nethermind (lzRead)",
+    "dvnId": "nethermind",
+    "originChainKey": "abstract",
+    "originChainDisplayName": "Abstract Mainnet",
+    "readLibAddressOnOriginChain": "0x2B79f3C2EE059E465a24bf5A2F4FE989546053B1",
+    "dvnAddressOnOriginChain": "0x05db3a229293c09f639a16526bb2481704716df0",
+    "dataChains": [
+      {
+        "dataChainKey": "abstract",
+        "dataChainDisplayName": "Abstract Mainnet"
+      },
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "LayerZero Labs (lzRead)",
+    "dvnId": "layerzero-labs",
+    "originChainKey": "ape",
+    "originChainDisplayName": "Ape Mainnet",
+    "readLibAddressOnOriginChain": "0x1641D737e97916f1400CB6BA032eceE765484D9C",
+    "dvnAddressOnOriginChain": "0x965a80dc87cec5848310e612dead84b543aef874",
+    "dataChains": [
+      {
+        "dataChainKey": "abstract",
+        "dataChainDisplayName": "Abstract Mainnet"
+      },
+      {
+        "dataChainKey": "ape",
+        "dataChainDisplayName": "Ape Mainnet"
+      },
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Nethermind (lzRead)",
+    "dvnId": "nethermind",
+    "originChainKey": "ape",
+    "originChainDisplayName": "Ape Mainnet",
+    "readLibAddressOnOriginChain": "0x1641D737e97916f1400CB6BA032eceE765484D9C",
+    "dvnAddressOnOriginChain": "0xb2e6e01a5bef9bf25f00105dc7e47542f750de68",
+    "dataChains": [
+      {
+        "dataChainKey": "abstract",
+        "dataChainDisplayName": "Abstract Mainnet"
+      },
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "AltLayer (lzRead)",
+    "dvnId": "altlayer",
+    "originChainKey": "arbitrum",
+    "originChainDisplayName": "Arbitrum Mainnet",
+    "readLibAddressOnOriginChain": "0xbcd4CADCac3F767C57c4F402932C4705DF62BEFf",
+    "dvnAddressOnOriginChain": "0x8ede21203e062d7d1eaec11c4c72ad04cdc15658",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Animoca-Blockdaemon (lzRead)",
+    "dvnId": "animoca-blockdaemon",
+    "originChainKey": "arbitrum",
+    "originChainDisplayName": "Arbitrum Mainnet",
+    "readLibAddressOnOriginChain": "0xbcd4CADCac3F767C57c4F402932C4705DF62BEFf",
+    "dvnAddressOnOriginChain": "0xf0e40968e27f63b3b0a0b3baac4a274149376591",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "BCW Group (lzRead)",
+    "dvnId": "bcw",
+    "originChainKey": "arbitrum",
+    "originChainDisplayName": "Arbitrum Mainnet",
+    "readLibAddressOnOriginChain": "0xbcd4CADCac3F767C57c4F402932C4705DF62BEFf",
+    "dvnAddressOnOriginChain": "0x05ce650134d943c5e336dc7990e84fb4e69fdf29",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "LayerZero Labs (lzRead)",
+    "dvnId": "layerzero-labs",
+    "originChainKey": "arbitrum",
+    "originChainDisplayName": "Arbitrum Mainnet",
+    "readLibAddressOnOriginChain": "0xbcd4CADCac3F767C57c4F402932C4705DF62BEFf",
+    "dvnAddressOnOriginChain": "0x1308151a7ebac14f435d3ad5ff95c34160d539a5",
+    "dataChains": [
+      {
+        "dataChainKey": "abstract",
+        "dataChainDisplayName": "Abstract Mainnet"
+      },
+      {
+        "dataChainKey": "ape",
+        "dataChainDisplayName": "Ape Mainnet"
+      },
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Nethermind (lzRead)",
+    "dvnId": "nethermind",
+    "originChainKey": "arbitrum",
+    "originChainDisplayName": "Arbitrum Mainnet",
+    "readLibAddressOnOriginChain": "0xbcd4CADCac3F767C57c4F402932C4705DF62BEFf",
+    "dvnAddressOnOriginChain": "0x14e570a1684c7ca883b35e1b25d2f7cec98a16cd",
+    "dataChains": [
+      {
+        "dataChainKey": "abstract",
+        "dataChainDisplayName": "Abstract Mainnet"
+      },
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Nocturnal Labs (lzRead)",
+    "dvnId": "nocturnal-labs",
+    "originChainKey": "arbitrum",
+    "originChainDisplayName": "Arbitrum Mainnet",
+    "readLibAddressOnOriginChain": "0xbcd4CADCac3F767C57c4F402932C4705DF62BEFf",
+    "dvnAddressOnOriginChain": "0xfdd2e77a6addc1e18862f43297500d2ebfbd94ac",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "LayerZero Labs (lzRead)",
+    "dvnId": "layerzero-labs",
+    "originChainKey": "arbitrum-sepolia",
+    "originChainDisplayName": "Arbitrum Sepolia Testnet",
+    "readLibAddressOnOriginChain": "0x54320b901FDe49Ba98de821Ccf374BA4358a8bf6",
+    "dvnAddressOnOriginChain": "0x5c8c267174e1f345234ff5315d6cfd6716763bac",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum-sepolia",
+        "dataChainDisplayName": "Arbitrum Sepolia Testnet"
+      },
+      {
+        "dataChainKey": "base-sepolia",
+        "dataChainDisplayName": "Base Sepolia Testnet"
+      },
+      {
+        "dataChainKey": "sepolia",
+        "dataChainDisplayName": "Ethereum Sepolia Testnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "AltLayer (lzRead)",
+    "dvnId": "altlayer",
+    "originChainKey": "avalanche",
+    "originChainDisplayName": "Avalanche Mainnet",
+    "readLibAddressOnOriginChain": "0x8839D3f169f473193423b402BDC4B5c51daAABDc",
+    "dvnAddressOnOriginChain": "0x8efb6b7dc61c6b6638714747d5e6b81a3512b5c3",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Animoca-Blockdaemon (lzRead)",
+    "dvnId": "animoca-blockdaemon",
+    "originChainKey": "avalanche",
+    "originChainDisplayName": "Avalanche Mainnet",
+    "readLibAddressOnOriginChain": "0x8839D3f169f473193423b402BDC4B5c51daAABDc",
+    "dvnAddressOnOriginChain": "0xab82e9b24004b954985528dac14d1b020722a3c8",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "BCW Group (lzRead)",
+    "dvnId": "bcw",
+    "originChainKey": "avalanche",
+    "originChainDisplayName": "Avalanche Mainnet",
+    "readLibAddressOnOriginChain": "0x8839D3f169f473193423b402BDC4B5c51daAABDc",
+    "dvnAddressOnOriginChain": "0x7a42a1c1deba75756f9af12bee6b29cfc2be3d70",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "LayerZero Labs (lzRead)",
+    "dvnId": "layerzero-labs",
+    "originChainKey": "avalanche",
+    "originChainDisplayName": "Avalanche Mainnet",
+    "readLibAddressOnOriginChain": "0x8839D3f169f473193423b402BDC4B5c51daAABDc",
+    "dvnAddressOnOriginChain": "0x0ffe02df012299a370d5dd69298a5826eacafdf8",
+    "dataChains": [
+      {
+        "dataChainKey": "abstract",
+        "dataChainDisplayName": "Abstract Mainnet"
+      },
+      {
+        "dataChainKey": "ape",
+        "dataChainDisplayName": "Ape Mainnet"
+      },
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Nethermind (lzRead)",
+    "dvnId": "nethermind",
+    "originChainKey": "avalanche",
+    "originChainDisplayName": "Avalanche Mainnet",
+    "readLibAddressOnOriginChain": "0x8839D3f169f473193423b402BDC4B5c51daAABDc",
+    "dvnAddressOnOriginChain": "0x1308151a7ebac14f435d3ad5ff95c34160d539a5",
+    "dataChains": [
+      {
+        "dataChainKey": "abstract",
+        "dataChainDisplayName": "Abstract Mainnet"
+      },
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Nocturnal Labs (lzRead)",
+    "dvnId": "nocturnal-labs",
+    "originChainKey": "avalanche",
+    "originChainDisplayName": "Avalanche Mainnet",
+    "readLibAddressOnOriginChain": "0x8839D3f169f473193423b402BDC4B5c51daAABDc",
+    "dvnAddressOnOriginChain": "0xbd836c4c9d2c3ff94718173b463054c3e2c11cf4",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Animoca-Blockdaemon (lzRead)",
+    "dvnId": "animoca-blockdaemon",
+    "originChainKey": "base",
+    "originChainDisplayName": "Base Mainnet",
+    "readLibAddressOnOriginChain": "0x1273141a3f7923AA2d9edDfA402440cE075ed8Ff",
+    "dvnAddressOnOriginChain": "0x41ef29f974fc9f6772654f005271c64210425391",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "BCW Group (lzRead)",
+    "dvnId": "bcw",
+    "originChainKey": "base",
+    "originChainDisplayName": "Base Mainnet",
+    "readLibAddressOnOriginChain": "0x1273141a3f7923AA2d9edDfA402440cE075ed8Ff",
+    "dvnAddressOnOriginChain": "0xd77a62b54ee18bcd667b6cd158d5a000182af5cf",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "LayerZero Labs (lzRead)",
+    "dvnId": "layerzero-labs",
+    "originChainKey": "base",
+    "originChainDisplayName": "Base Mainnet",
+    "readLibAddressOnOriginChain": "0x1273141a3f7923AA2d9edDfA402440cE075ed8Ff",
+    "dvnAddressOnOriginChain": "0xb1473ac9f58fb27597a21710da9d1071841e8163",
+    "dataChains": [
+      {
+        "dataChainKey": "abstract",
+        "dataChainDisplayName": "Abstract Mainnet"
+      },
+      {
+        "dataChainKey": "ape",
+        "dataChainDisplayName": "Ape Mainnet"
+      },
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Nethermind (lzRead)",
+    "dvnId": "nethermind",
+    "originChainKey": "base",
+    "originChainDisplayName": "Base Mainnet",
+    "readLibAddressOnOriginChain": "0x1273141a3f7923AA2d9edDfA402440cE075ed8Ff",
+    "dvnAddressOnOriginChain": "0x658947bc7956aea0067a62cf87ab02ae199ef3f3",
+    "dataChains": [
+      {
+        "dataChainKey": "abstract",
+        "dataChainDisplayName": "Abstract Mainnet"
+      },
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Nocturnal Labs (lzRead)",
+    "dvnId": "nocturnal-labs",
+    "originChainKey": "base",
+    "originChainDisplayName": "Base Mainnet",
+    "readLibAddressOnOriginChain": "0x1273141a3f7923AA2d9edDfA402440cE075ed8Ff",
+    "dvnAddressOnOriginChain": "0xf4c489afd83625f510947e63ff8f90dfee0ae46c",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "LayerZero Labs (lzRead)",
+    "dvnId": "layerzero-labs",
+    "originChainKey": "base-sepolia",
+    "originChainDisplayName": "Base Sepolia Testnet",
+    "readLibAddressOnOriginChain": "0x29270F0CFC54432181C853Cd25E2Fb60A68E03f2",
+    "dvnAddressOnOriginChain": "0xbf6ff58f60606edb2f190769b951d825bcb214e2",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum-sepolia",
+        "dataChainDisplayName": "Arbitrum Sepolia Testnet"
+      },
+      {
+        "dataChainKey": "base-sepolia",
+        "dataChainDisplayName": "Base Sepolia Testnet"
+      },
+      {
+        "dataChainKey": "sepolia",
+        "dataChainDisplayName": "Ethereum Sepolia Testnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "AltLayer (lzRead)",
+    "dvnId": "altlayer",
+    "originChainKey": "bsc",
+    "originChainDisplayName": "BNB Smart Chain Mainnet",
+    "readLibAddressOnOriginChain": "0x37375049CDc522Bd6bAeEbf527A42D54688d784c",
+    "dvnAddressOnOriginChain": "0xdb979d0a36af0525afa60fc265b1525505c55d79",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Animoca-Blockdaemon (lzRead)",
+    "dvnId": "animoca-blockdaemon",
+    "originChainKey": "bsc",
+    "originChainDisplayName": "BNB Smart Chain Mainnet",
+    "readLibAddressOnOriginChain": "0x37375049CDc522Bd6bAeEbf527A42D54688d784c",
+    "dvnAddressOnOriginChain": "0xd4925b81f62457caca368412315d230535b9a48a",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "BCW Group (lzRead)",
+    "dvnId": "bcw",
+    "originChainKey": "bsc",
+    "originChainDisplayName": "BNB Smart Chain Mainnet",
+    "readLibAddressOnOriginChain": "0x37375049CDc522Bd6bAeEbf527A42D54688d784c",
+    "dvnAddressOnOriginChain": "0x5246d80e5673251eb1977ae9d07a93fbd8649963",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "LayerZero Labs (lzRead)",
+    "dvnId": "layerzero-labs",
+    "originChainKey": "bsc",
+    "originChainDisplayName": "BNB Smart Chain Mainnet",
+    "readLibAddressOnOriginChain": "0x37375049CDc522Bd6bAeEbf527A42D54688d784c",
+    "dvnAddressOnOriginChain": "0x509889389cfb7a89850017425810116a44676f58",
+    "dataChains": [
+      {
+        "dataChainKey": "abstract",
+        "dataChainDisplayName": "Abstract Mainnet"
+      },
+      {
+        "dataChainKey": "ape",
+        "dataChainDisplayName": "Ape Mainnet"
+      },
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Nethermind (lzRead)",
+    "dvnId": "nethermind",
+    "originChainKey": "bsc",
+    "originChainDisplayName": "BNB Smart Chain Mainnet",
+    "readLibAddressOnOriginChain": "0x37375049CDc522Bd6bAeEbf527A42D54688d784c",
+    "dvnAddressOnOriginChain": "0x0321a1b9e48ccdc5a8a32c524b858e10072ef798",
+    "dataChains": [
+      {
+        "dataChainKey": "abstract",
+        "dataChainDisplayName": "Abstract Mainnet"
+      },
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Nocturnal Labs (lzRead)",
+    "dvnId": "nocturnal-labs",
+    "originChainKey": "bsc",
+    "originChainDisplayName": "BNB Smart Chain Mainnet",
+    "readLibAddressOnOriginChain": "0x37375049CDc522Bd6bAeEbf527A42D54688d784c",
+    "dvnAddressOnOriginChain": "0x48ecf6d66045aad8d75e72109489ac29da6066a9",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "AltLayer (lzRead)",
+    "dvnId": "altlayer",
+    "originChainKey": "ethereum",
+    "originChainDisplayName": "Ethereum Mainnet",
+    "readLibAddressOnOriginChain": "0x74F55Bc2a79A27A0bF1D1A35dB5d0Fc36b9FDB9D",
+    "dvnAddressOnOriginChain": "0x1e129c36bc3afc3f0d46a42c9d9cab7586bda94c",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Animoca-Blockdaemon (lzRead)",
+    "dvnId": "animoca-blockdaemon",
+    "originChainKey": "ethereum",
+    "originChainDisplayName": "Ethereum Mainnet",
+    "readLibAddressOnOriginChain": "0x74F55Bc2a79A27A0bF1D1A35dB5d0Fc36b9FDB9D",
+    "dvnAddressOnOriginChain": "0x864b42dddc43a610e7506c163048c087f0b406ef",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "BCW Group (lzRead)",
+    "dvnId": "bcw",
+    "originChainKey": "ethereum",
+    "originChainDisplayName": "Ethereum Mainnet",
+    "readLibAddressOnOriginChain": "0x74F55Bc2a79A27A0bF1D1A35dB5d0Fc36b9FDB9D",
+    "dvnAddressOnOriginChain": "0x3a283ed6bcce8d9dfb673fbfba6e644c9d02e9ab",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "LayerZero Labs (lzRead)",
+    "dvnId": "layerzero-labs",
+    "originChainKey": "ethereum",
+    "originChainDisplayName": "Ethereum Mainnet",
+    "readLibAddressOnOriginChain": "0x74F55Bc2a79A27A0bF1D1A35dB5d0Fc36b9FDB9D",
+    "dvnAddressOnOriginChain": "0xdb979d0a36af0525afa60fc265b1525505c55d79",
+    "dataChains": [
+      {
+        "dataChainKey": "abstract",
+        "dataChainDisplayName": "Abstract Mainnet"
+      },
+      {
+        "dataChainKey": "ape",
+        "dataChainDisplayName": "Ape Mainnet"
+      },
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Nethermind (lzRead)",
+    "dvnId": "nethermind",
+    "originChainKey": "ethereum",
+    "originChainDisplayName": "Ethereum Mainnet",
+    "readLibAddressOnOriginChain": "0x74F55Bc2a79A27A0bF1D1A35dB5d0Fc36b9FDB9D",
+    "dvnAddressOnOriginChain": "0xf4064220871e3b94ca6ab3b0cee8e29178bf47de",
+    "dataChains": [
+      {
+        "dataChainKey": "abstract",
+        "dataChainDisplayName": "Abstract Mainnet"
+      },
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Nocturnal Labs (lzRead)",
+    "dvnId": "nocturnal-labs",
+    "originChainKey": "ethereum",
+    "originChainDisplayName": "Ethereum Mainnet",
+    "readLibAddressOnOriginChain": "0x74F55Bc2a79A27A0bF1D1A35dB5d0Fc36b9FDB9D",
+    "dvnAddressOnOriginChain": "0x7c42f598d22e8711998bac7c3360a7b3a514863d",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "LayerZero Labs (lzRead)",
+    "dvnId": "layerzero-labs",
+    "originChainKey": "sepolia",
+    "originChainDisplayName": "Ethereum Sepolia Testnet",
+    "readLibAddressOnOriginChain": "0x908E86e9cb3F16CC94AE7569Bf64Ce2CE04bbcBE",
+    "dvnAddressOnOriginChain": "0x530fbe405189204ef459fa4b767167e4d41e3a37",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum-sepolia",
+        "dataChainDisplayName": "Arbitrum Sepolia Testnet"
+      },
+      {
+        "dataChainKey": "base-sepolia",
+        "dataChainDisplayName": "Base Sepolia Testnet"
+      },
+      {
+        "dataChainKey": "sepolia",
+        "dataChainDisplayName": "Ethereum Sepolia Testnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "AltLayer (lzRead)",
+    "dvnId": "altlayer",
+    "originChainKey": "optimism",
+    "originChainDisplayName": "Optimism Mainnet",
+    "readLibAddressOnOriginChain": "0x01B29c03fAD8F455184573D6624a8136cF6106Fb",
+    "dvnAddressOnOriginChain": "0x06e8042729cef3ae6d6db5350f48f9d736c3675d",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Animoca-Blockdaemon (lzRead)",
+    "dvnId": "animoca-blockdaemon",
+    "originChainKey": "optimism",
+    "originChainDisplayName": "Optimism Mainnet",
+    "readLibAddressOnOriginChain": "0x01B29c03fAD8F455184573D6624a8136cF6106Fb",
+    "dvnAddressOnOriginChain": "0x3b247f1b48f055ebf2db593672b98c9597e3081e",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "BCW Group (lzRead)",
+    "dvnId": "bcw",
+    "originChainKey": "optimism",
+    "originChainDisplayName": "Optimism Mainnet",
+    "readLibAddressOnOriginChain": "0x01B29c03fAD8F455184573D6624a8136cF6106Fb",
+    "dvnAddressOnOriginChain": "0x41f3a349e6ac46caad2da04cfceae3e0de0e6c0c",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "LayerZero Labs (lzRead)",
+    "dvnId": "layerzero-labs",
+    "originChainKey": "optimism",
+    "originChainDisplayName": "Optimism Mainnet",
+    "readLibAddressOnOriginChain": "0x01B29c03fAD8F455184573D6624a8136cF6106Fb",
+    "dvnAddressOnOriginChain": "0xd4925b81f62457caca368412315d230535b9a48a",
+    "dataChains": [
+      {
+        "dataChainKey": "abstract",
+        "dataChainDisplayName": "Abstract Mainnet"
+      },
+      {
+        "dataChainKey": "ape",
+        "dataChainDisplayName": "Ape Mainnet"
+      },
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Nethermind (lzRead)",
+    "dvnId": "nethermind",
+    "originChainKey": "optimism",
+    "originChainDisplayName": "Optimism Mainnet",
+    "readLibAddressOnOriginChain": "0x01B29c03fAD8F455184573D6624a8136cF6106Fb",
+    "dvnAddressOnOriginChain": "0x6075e53dc2ddcfa81142fbad52315ae627ffce75",
+    "dataChains": [
+      {
+        "dataChainKey": "abstract",
+        "dataChainDisplayName": "Abstract Mainnet"
+      },
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Nocturnal Labs (lzRead)",
+    "dvnId": "nocturnal-labs",
+    "originChainKey": "optimism",
+    "originChainDisplayName": "Optimism Mainnet",
+    "readLibAddressOnOriginChain": "0x01B29c03fAD8F455184573D6624a8136cF6106Fb",
+    "dvnAddressOnOriginChain": "0x47039f4327f74e755f65821040a7e0addd596d09",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "AltLayer (lzRead)",
+    "dvnId": "altlayer",
+    "originChainKey": "polygon",
+    "originChainDisplayName": "Polygon Mainnet",
+    "readLibAddressOnOriginChain": "0xc214d690031d3f873365f94d381d6d50c35aa7fa",
+    "dvnAddressOnOriginChain": "0xbabbb709b3cefe563f2ab14898a53301686d48b9",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "BCW Group (lzRead)",
+    "dvnId": "bcw",
+    "originChainKey": "polygon",
+    "originChainDisplayName": "Polygon Mainnet",
+    "readLibAddressOnOriginChain": "0xc214d690031d3f873365f94d381d6d50c35aa7fa",
+    "dvnAddressOnOriginChain": "0x66d771b8f938ccb82a1a9cb7a93671cb92016ab0",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "LayerZero Labs (lzRead)",
+    "dvnId": "layerzero-labs",
+    "originChainKey": "polygon",
+    "originChainDisplayName": "Polygon Mainnet",
+    "readLibAddressOnOriginChain": "0xc214d690031d3f873365f94d381d6d50c35aa7fa",
+    "dvnAddressOnOriginChain": "0xa70c51c38d5a9990f3113a403d74eba01fce4ccb",
+    "dataChains": [
+      {
+        "dataChainKey": "abstract",
+        "dataChainDisplayName": "Abstract Mainnet"
+      },
+      {
+        "dataChainKey": "ape",
+        "dataChainDisplayName": "Ape Mainnet"
+      },
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Nethermind (lzRead)",
+    "dvnId": "nethermind",
+    "originChainKey": "polygon",
+    "originChainDisplayName": "Polygon Mainnet",
+    "readLibAddressOnOriginChain": "0xc214d690031d3f873365f94d381d6d50c35aa7fa",
+    "dvnAddressOnOriginChain": "0xbcefdadb8d24b1d36c26b522235012cd4cf162f6",
+    "dataChains": [
+      {
+        "dataChainKey": "abstract",
+        "dataChainDisplayName": "Abstract Mainnet"
+      },
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  },
+  {
+    "dvnDisplayName": "Nocturnal Labs (lzRead)",
+    "dvnId": "nocturnal-labs",
+    "originChainKey": "polygon",
+    "originChainDisplayName": "Polygon Mainnet",
+    "readLibAddressOnOriginChain": "0xc214d690031d3f873365f94d381d6d50c35aa7fa",
+    "dvnAddressOnOriginChain": "0xf60c89799c85d8fab79519f7666dcde2a7c97cca",
+    "dataChains": [
+      {
+        "dataChainKey": "arbitrum",
+        "dataChainDisplayName": "Arbitrum Mainnet"
+      },
+      {
+        "dataChainKey": "avalanche",
+        "dataChainDisplayName": "Avalanche Mainnet"
+      },
+      {
+        "dataChainKey": "base",
+        "dataChainDisplayName": "Base Mainnet"
+      },
+      {
+        "dataChainKey": "bsc",
+        "dataChainDisplayName": "BNB Smart Chain Mainnet"
+      },
+      {
+        "dataChainKey": "ethereum",
+        "dataChainDisplayName": "Ethereum Mainnet"
+      },
+      {
+        "dataChainKey": "optimism",
+        "dataChainDisplayName": "Optimism Mainnet"
+      },
+      {
+        "dataChainKey": "polygon",
+        "dataChainDisplayName": "Polygon Mainnet"
+      }
+    ]
+  }
+]
