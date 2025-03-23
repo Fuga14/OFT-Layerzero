@@ -4,13 +4,15 @@
         "name": "MyOFTBase",
         "symbol": "MyOFT",
         "LZEndpoint": "0x6EDCE65403992e310A62460808c4b910D972f10f",
-        "owner": "0x0309004C4fB9943797f5C530abd8cddE564A9fD4"
+        "owner": "0x0309004C4fB9943797f5C530abd8cddE564A9fD4",
+        "endpointId": "40245"
     },
     "11155111": {
         "MyOFT": "0x8bfD6804f30638DFf67b97b5DDAD7ebBfA7Db8d8",
         "name": "MyOFTSepolia",
         "symbol": "MyOFT",
         "LZEndpoint": "0x6EDCE65403992e310A62460808c4b910D972f10f",
-        "owner": "0x0309004C4fB9943797f5C530abd8cddE564A9fD4"
+        "owner": "0x0309004C4fB9943797f5C530abd8cddE564A9fD4",
+        "endpointId": "40161"
     }
 }
