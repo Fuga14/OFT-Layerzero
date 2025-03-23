@@ -6,7 +6,13 @@
     "scripts": {
         "test": "npx hardhat test",
         "deploy:myoft:sepolia": "npx hardhat run script/deployMyOFT.ts --network sepolia",
-        "deploy:myoft:baseSepolia": "npx hardhat run script/deployMyOFT.ts --network baseSepolia"
+        "deploy:myoft:baseSepolia": "npx hardhat run script/deployMyOFT.ts --network baseSepolia",
+        "setPeers:sepolia": "npx hardhat run script/setPeers.ts --network sepolia",
+        "setPeers:baseSepolia": "npx hardhat run script/setPeers.ts --network baseSepolia",
+        "setEnforcedOptions:sepolia": "npx hardhat run script/setEnforcedOptions.ts --network sepolia",
+        "setEnforcedOptions:baseSepolia": "npx hardhat run script/setEnforcedOptions.ts --network baseSepolia",
+        "sendTokens:sepolia": "npx hardhat run script/sendTokens.ts --network sepolia",
+        "sendTokens:baseSepolia": "npx hardhat run script/sendTokens.ts --network baseSepolia"
     },
     "keywords": [],
     "author": "",
@@ -18,5 +24,8 @@
         "@openzeppelin/contracts": "^5.0.1",
         "dotenv": "^16.4.7",
         "hardhat": "^2.22.19"
+    },
+    "dependencies": {
+        "@layerzerolabs/lz-v2-utilities": "^3.0.81"
     }
 }
